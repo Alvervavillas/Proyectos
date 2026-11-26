@@ -12,3 +12,13 @@ footer {
   color: #666666;
   font-size: 0.9em;
 }
+section {
+  margin-top: 30px;
+  padding: 15px;
+  background-color: #ffffff;
+  border-left: 4px solid #2a5db0;
+}
+
+section h2 {
+  color: #2a5db0;
+}
